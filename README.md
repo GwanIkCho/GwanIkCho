@@ -12,10 +12,21 @@
 <br>
 
 
-<h3 align="center">😁 ABOUT ME 😁</h3>
+<h3 align="center">😁 About ME 😁</h3>
 <div align="center">
+😀 조관익 
 
+📱 010-3969-0009  
 
+<br>✏ 대진대학교
+  <br>- 경영학과 / 국제통상학과
+
+  <br>육군 ROTC 59기
+
+ <br> Korea IT Academy
+  <br>- KDT AI기반 챗봇 및 OCR 개발 전문가 과정
+  
+</div>
 <br>
 
 
