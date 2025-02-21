@@ -26,6 +26,8 @@
  <br> Korea IT Academy
   <br>- KDT AI기반 챗봇 및 OCR 개발 전문가 과정
   
+ <br> Data Science Academy
+<br>- K-MOVE SCIT Master 46기
 </div>
 <br>
 
