@@ -61,10 +61,4 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="mailto:chorhksdlr@gmail.com">
-    <img
-      src="https://img.shields.io/badge/chorhksdlr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
